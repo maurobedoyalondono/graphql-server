@@ -1,0 +1,21 @@
+type Query {
+  groups(parentGroupPath: String): [Group]
+  repos(parentGroupPath: String!): [Repository]
+}
+
+type Group {
+    id: Int
+    name: String
+    path: String
+    fullpath: String
+    parentgroup: Group
+}
+
+type Repository {
+    id: Int
+    name: String
+    path: String
+    fullpath: String
+    defaultbranch: String
+    parentgroup: Group
+}

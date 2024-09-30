@@ -1,0 +1,5 @@
+id,name,path,fullpath,defaultbranch,parentgroup
+1,"graphql-devs-core",mauricio.bedoya/graphql-devs/graphql-devs-core.git,https://gitlab-vault.eastus2.cloudapp.azure.com/mauricio.bedoya/graphql-devs/graphql-devs-core.git,main,mauricio.bedoya/graphql-devs
+2,"graphql-devs-feature1",mauricio.bedoya/graphql-devs/graphql-devs-feature1.git,https://gitlab-vault.eastus2.cloudapp.azure.com/mauricio.bedoya/graphql-devs/graphql-devs-feature1.git,main,mauricio.bedoya/graphql-devs
+3,"graphql-core-feature2",mauricio.bedoya/graphql-devs/graphql-devs-feature.git,https://gitlab-vault.eastus2.cloudapp.azure.com/mauricio.bedoya/graphql-devs/graphql-devs-feature2.git,main,mauricio.bedoya/graphql-devs
+4,"graphql-core",mauricio.bedoya/graphql-core.git,https://gitlab-vault.eastus2.cloudapp.azure.com/mauricio.bedoya/fdts-core.git,main,mauricio.bedoya
