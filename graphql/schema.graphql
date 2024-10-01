@@ -1,6 +1,6 @@
 type Query {
   groups(parentGroupPath: String): [Group]
-  repos(parentGroupPath: String!): [Repository]
+  repos(parentGroupPath: String): [Repository]
 }
 
 type Group {
